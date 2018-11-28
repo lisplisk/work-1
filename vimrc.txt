@@ -62,4 +62,7 @@ set guioptions-=m
 set autoindent
 set cindent
 set mouse=a  " always use mouse 
+ :set fenc=utf-8
+:set enc=utf-8
+ 
 
